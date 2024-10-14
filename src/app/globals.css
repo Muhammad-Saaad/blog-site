@@ -253,7 +253,7 @@ html,body{
   justify-content: center;
 }
 
-.blog-menu .elem Link h1{
+.blog-menu .elem h1{
   margin: 0;
   font-size: 70px;
   color: aliceblue;
