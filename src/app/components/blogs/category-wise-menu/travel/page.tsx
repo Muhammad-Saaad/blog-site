@@ -1,5 +1,5 @@
 import Image from "next/image";
-import Travel from "../../../../images/slider/Travel.jpg";
+import Travel from "../../../../images/slider/travel.jpg";
 import Link from "next/link";
 export default function TravelList(){
     return(
